@@ -1,2 +1,2 @@
 #feature-1 by matthew
-#feature-pre approved
+File icons and Grouping files together in a folder
